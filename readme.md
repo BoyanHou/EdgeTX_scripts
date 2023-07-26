@@ -1,6 +1,5 @@
 # These are custom lua scripts to be used with EdgeTX
 
----
 ## Compatible with EdgeTX 2.9 and later 
 ### Scripts
 - intCrf.lua: upon called, set internal module to crossfire
